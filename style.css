@@ -1,0 +1,50 @@
+body{
+    background-color: #fcfc;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+table {
+   background-color: #3F4543;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: ;
+    padding: 20px;
+    border-radius: 9px;
+}
+
+
+input[type="button"] {
+    width: 100%;
+    padding: 30px 50px;
+    background-color: #343434;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+#result{
+    background-color: #BCCD96;
+    padding: 30px;
+}
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+input.bg{
+    background-color: #FF4160;
+}
+
+input.bg1{
+    background-color: goldenrod;
+}
